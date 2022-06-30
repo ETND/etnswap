@@ -22,6 +22,14 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+	    {
+      "chainId": 131419,
+      "address": "0x2f38a08A893b122d0006Bd5865b77a4208f9Ea3e",
+      "name": "ETN",
+      "symbol": "ETN",
+      "decimals": 18,
+      "logoURI": "https://www.etnd.pro/list/logo/etn.png"
     }
   ],
   "version": {
