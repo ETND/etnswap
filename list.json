@@ -30,11 +30,19 @@
       "symbol": "ETN",
       "decimals": 18,
       "logoURI": "https://www.etnswap.pro/list/logo/etn.png"
+    },
+	    {
+      "chainId": 131419,
+      "address": "0xD549C74E452eD84CbBDBC62921bA8a04A794a2A6",
+      "name": "EDAO",
+      "symbol": "EDAO",
+      "decimals": 18,
+      "logoURI": "https://www.etnswap.pro/list/logo/edao.png"
     }
   ],
   "version": {
     "major": 10,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }
