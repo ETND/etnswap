@@ -45,7 +45,7 @@
       "name": "BJT",
       "symbol": "BJT",
       "decimals": 18,
-      "logoURI": "https://www.etnswap.pro/list/logo/bjt.jpg"
+      "logoURI": "https://www.etnswap.pro/list/logo/bjt.png"
     },
 	    {
       "chainId": 131419,
@@ -59,6 +59,6 @@
   "version": {
     "major": 10,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   }
 }
