@@ -41,7 +41,7 @@
     },
 	    {
       "chainId": 131419,
-      "address": "0x6b1492593BD51aBfe5c066227292B7D1CFD849ff",
+      "address": "0xDb6679d17FeD3D53E1b2dD3740085989ADfe941a",
       "name": "BJT",
       "symbol": "BJT",
       "decimals": 18,
@@ -59,6 +59,6 @@
   "version": {
     "major": 10,
     "minor": 0,
-    "patch": 4
+    "patch": 5
   }
 }
