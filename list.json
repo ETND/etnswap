@@ -38,6 +38,22 @@
       "symbol": "EDAO",
       "decimals": 18,
       "logoURI": "https://www.etnswap.pro/list/logo/edao.png"
+    },
+	    {
+      "chainId": 131419,
+      "address": "0x6b1492593BD51aBfe5c066227292B7D1CFD849ff",
+      "name": "BJT",
+      "symbol": "BJT",
+      "decimals": 18,
+      "logoURI": "https://www.etnswap.pro/list/logo/bjt.jpg"
+    },
+	    {
+      "chainId": 131419,
+      "address": "0xC7e6D9838C4c5D3A4147546a6536dEe175F73bE9",
+      "name": "EBW",
+      "symbol": "EBW",
+      "decimals": 18,
+      "logoURI": "https://www.etnswap.pro/list/logo/ebw.png"
     }
   ],
   "version": {
