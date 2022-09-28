@@ -54,6 +54,14 @@
       "symbol": "EBW",
       "decimals": 18,
       "logoURI": "https://www.etnswap.pro/list/logo/ebw.png"
+    },
+	    {
+      "chainId": 131419,
+      "address": "0x644f7D7639a25461504C93dCF4eC4b9C53dca6DF",
+      "name": "USDD",
+      "symbol": "USDD",
+      "decimals": 18,
+      "logoURI": "https://www.etnswap.pro/list/logo/usdd.png"
     }
   ],
   "version": {
