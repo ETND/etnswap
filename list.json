@@ -57,7 +57,7 @@
     },
 	    {
       "chainId": 131419,
-      "address": "0x644f7D7639a25461504C93dCF4eC4b9C53dca6DF",
+      "address": "0xDea5622935747Bc2c479915341a15f8d867dca3f",
       "name": "USDD",
       "symbol": "USDD",
       "decimals": 18,
@@ -67,6 +67,6 @@
   "version": {
     "major": 10,
     "minor": 0,
-    "patch": 6
+    "patch": 7
   }
 }
