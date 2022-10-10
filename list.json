@@ -62,11 +62,19 @@
       "symbol": "USDD",
       "decimals": 18,
       "logoURI": "https://www.etnswap.pro/list/logo/usdd.png"
+    },
+	    {
+      "chainId": 131419,
+      "address": "0x0237c5A2e5A07c2C14C7D3095364615094c93B17",
+      "name": "XYY",
+      "symbol": "XYY",
+      "decimals": 18,
+      "logoURI": "https://www.etnswap.pro/list/logo/xyy.png"
     }
   ],
   "version": {
     "major": 10,
     "minor": 0,
-    "patch": 7
+    "patch": 8
   }
 }
